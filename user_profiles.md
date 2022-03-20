@@ -1,1 +1,1 @@
-daily, monthly, quarterly
+daily, monthly, quarterly, loyal
