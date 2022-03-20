@@ -1,1 +1,1 @@
-Credit Card, Debit Card, Net Banking
+Credit Card, Debit Card, Net Banking, Coffeehut_wallet
